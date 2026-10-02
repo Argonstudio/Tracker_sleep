@@ -64,6 +64,7 @@ cd desired_folder
 python -m venv .venv
 ./.venv/Scripts/Activate.ps1
 pip install -r requirements.txt
+```
 
 ## 📝 Notes
 - The program is only available in Russian.
