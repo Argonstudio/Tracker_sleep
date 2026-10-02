@@ -24,6 +24,7 @@ It also:
 
 - Builds an Excel spreadsheet and draws a chart/graph.
 - Tracks average, minimum, and maximum values for:
+  
   - sleep duration
   - wake duration
   - bedtime shift
