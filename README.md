@@ -51,11 +51,13 @@ It also:
 
 1. Create a folder.
 2. Download:
+3. 
    - the desired program version file
    - the `.bat` file (launches the program with a double click)
    - `requirements.txt`
-3. Open **Windows PowerShell** (Python must be installed).
-4. Run the following commands:
+     
+4. Open **Windows PowerShell** (Python must be installed).
+5. Run the following commands:
 
 ```powershell
 cd desired_folder
