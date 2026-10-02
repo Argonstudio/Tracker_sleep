@@ -1,5 +1,7 @@
 # TrackerSleep
 
+[СМОТРЕТЬ РУССКУЮ ВЕРСИЮ ЭТОЙ ПРОГРАММЫ](https://github.com/Argonstudio/Tracker_sleep/)
+
 The program is designed for sleep schedule tracking and takes the following parameters into account:
 
 1. Bedtime (date day:month:year Exact time).
