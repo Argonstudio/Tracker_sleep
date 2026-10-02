@@ -1,3 +1,12 @@
+# sleep_tracker.py
+# Developer: Ivan Voitkov
+# GitHub: https://github.com/Argonstudio/Tracker_sleep/
+# MIT License
+#
+# Automatic sleep tracking based on activity logs (Chrome history and Windows power events).
+# This script analyzes periods of inactivity to detect sleep periods, saves them to an Excel file,
+# and generates a chart.
+
 import pandas as pd
 import matplotlib.pyplot as plt
 from datetime import datetime
