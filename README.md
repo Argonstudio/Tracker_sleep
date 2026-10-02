@@ -59,12 +59,12 @@
 4. Откройте **Windows PowerShell** (Python должен быть установлен).
 5. Выполните команды:
 
-\`\`\`powershell
+```powershell
 cd нужная_папка
 python -m venv .venv
 ./.venv/Scripts/Activate.ps1
 pip install -r requirements.txt
-\`\`\`
+```
 
 ---
 
