@@ -2,7 +2,7 @@
 
 **Инструмент для отслеживания режима сна** — создан для случаев хронического нарушения сна, а также для медицинского и/или исследовательского учёта.
 
-[🇬🇧 English version](https://github.com/Argonstudio/Tracker_sleep/tree/english-version)
+[🇬🇧 English version](https://github.com/Argonstudio/Tracker_sleep/)
 
 ---
 
