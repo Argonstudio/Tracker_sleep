@@ -1,6 +1,6 @@
 # TrackerSleep
 
-[СМОТРЕТЬ РУССКУЮ ВЕРСИЮ ЭТОЙ ПРОГРАММЫ](https://github.com/Argonstudio/Tracker_sleep/)
+[СМОТРЕТЬ РУССКУЮ ВЕРСИЮ ЭТОЙ ПРОГРАММЫ](https://github.com/Argonstudio/Tracker_sleep/tree/russian-version)
 
 The program is designed for sleep schedule tracking and takes the following parameters into account:
 
